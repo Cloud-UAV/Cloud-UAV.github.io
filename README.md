@@ -1,5 +1,3 @@
-# Welcome to the CloudUAV Documentation
-
 This page contains the information to understand the CloudUAV project/platform and how to get started with the platform.
 
 CloudUAV is a portal for planning and tracking UAV-based research projects. It streamlines UAV projects, from mission planning, organization, and data acquisition, to data visualization, reporting, and collaborative sharing - all designed to comply with Canadian Aviation Regulations.
@@ -47,5 +45,5 @@ Please see the [CloudUAV website](https://www.clouduav.ca/)
 Support is available from the SensorUp. Please leave an issue on the GitHub for the component/service, or [contact us](https://www.clouduav.ca/comp-j97jb5815label) on the website.
 
 ### Try CloudUAV {#Try}
-[CloudUAV Login](https://clouduav.sensorup.com/)
-[CloudUAV Mission App](https://www.clouduav.ca/comp-j97jb5815label)
+* [CloudUAV Login](https://clouduav.sensorup.com/)
+* [CloudUAV Mission App](https://www.clouduav.ca/comp-j97jb5815label)
