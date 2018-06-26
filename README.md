@@ -30,3 +30,22 @@ Users can upload important organizational documents, keeping track of pilot cert
 
 ## Secure Sharing
 Project administrators can view all data and get real-time notifications when uploads or changes are made using MQTT via SensorThings.  Users can securely share project information including media, flight logs, missions, and documents, making it easy to collaborate.
+
+### Download and Source {#Download}
+Please [contact us](https://www.clouduav.ca/comp-j97jb5815label) if you require any further information.
+
+### Fact Sheet {#ReleaseNotes}
+Please see the [CloudUAV website](https://www.clouduav.ca/)
+
+### License {#License}
+
+### Provenance {#Provenance}
+
+### Release Notes {#ReleaseNotes}
+
+### Support {#Support}
+Support is available from the SensorUp. Please leave an issue on the GitHub for the component/service, or [contact us](https://www.clouduav.ca/comp-j97jb5815label) on the website.
+
+### Try CloudUAV {#Try}
+[CloudUAV Login](https://clouduav.sensorup.com/)
+[CloudUAV Mission App](https://www.clouduav.ca/comp-j97jb5815label)
