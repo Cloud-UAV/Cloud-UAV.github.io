@@ -43,7 +43,7 @@ Please see the [CloudUAV website](https://www.clouduav.ca/)
 * OGC SensorThings API: [OGC License](https://portal.opengeospatial.org/modules/admin/license_agreement.phpsuppressHeaders=0&access_license_id=3&target=)
 
 ### [Provenance](#Provenance)
-New releases of the managed CloudUAV components are handled by Lucy Poley at the University of Calgary (l.g.poley@gmail.com). Before each release any tests for the component or service are run to verify integration. After release the services are monitored by a service run by the GeoSensorWeb Lab. Each release will be accompanied by commits and changelog updates on the CloudUAV web site.
+New releases of the managed CloudUAV components are handled by Lucy Poley at the University of Calgary (l.g.poley@gmail.com). Before each release any tests for the component or service are run to verify integration. After release the services are monitored by a service run by SensorUp. Each release will be accompanied by commits and changelog updates on the CloudUAV web site.
 
 ### [Release Notes](#releasenotes)
 #### [1.0] - 2018-02-12
@@ -53,6 +53,6 @@ New releases of the managed CloudUAV components are handled by Lucy Poley at the
 ### [Support](#support)
 Support is available from the SensorUp. Please leave an issue on the GitHub for the component/service, or [contact us](https://www.clouduav.ca) on the website.
 
-### [Try CloudUAV](#Try)
+### [Try CloudUAV](#try)
 * [CloudUAV Login](https://clouduav.sensorup.com/)
 * [CloudUAV Mission App](https://www.clouduav.ca)
