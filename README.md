@@ -37,18 +37,18 @@ Please see the [CloudUAV website](https://www.clouduav.ca/)
 
 ### License {#License}
 CloudUAV: [MIT](https://opensource.org/licenses/MIT)
-OGC SensorThings API: [OGC License] (https://portal.opengeospatial.org/modules/admin/license_agreement.php?suppressHeaders=0&access_license_id=3&target=)
+OGC SensorThings API: [OGC License](https://portal.opengeospatial.org/modules/admin/license_agreement.phpsuppressHeaders=0&access_license_id=3&target=)
 
 ### Provenance {#Provenance}
 New releases of the managed CloudUAV components are handled by Lucy Poley at the University of Calgary (l.g.poley@gmail.com). Before each release any tests for the component or service are run to verify integration. After release the services are monitored by a service run by the GeoSensorWeb Lab. Each release will be accompanied by commits and changelog updates on the CloudUAV web site.
 
 ### Release Notes {#ReleaseNotes}
-## [1.0] - 2018-02-12
+#### [1.0] - 2018-02-12
 * First release for CloudUAV Platform in Java
 * Receives data from CloudUAV Mobile Client
 
 ### Support {#Support}
-## [1.0] - 2018-02-12
+#### [1.0] - 2018-02-12
 Support is available from the SensorUp. Please leave an issue on the GitHub for the component/service, or [contact us](https://www.clouduav.ca) on the website.
 
 ### Try CloudUAV {#Try}
