@@ -38,7 +38,7 @@ Please [contact us](https://www.clouduav.ca) if you require any further informat
 ### Fact Sheet
 Please see the [CloudUAV website](https://www.clouduav.ca/)
 
-### License
+### Licence
 * CloudUAV: [MIT](https://opensource.org/licenses/MIT)
 * OGC SensorThings API: [OGC License](https://portal.opengeospatial.org/modules/admin/license_agreement.phpsuppressHeaders=0&access_license_id=3&target=)
 
