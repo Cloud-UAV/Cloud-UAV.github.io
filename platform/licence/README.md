@@ -1,5 +1,4 @@
 ### License
-CloudUAV is MIT licensed.  The 
 
 <ul>
   <li>
