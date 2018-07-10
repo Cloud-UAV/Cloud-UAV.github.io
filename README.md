@@ -1,6 +1,6 @@
 This page contains the information to understand the CloudUAV project/platform and how to get started with the platform.
 
-CloudUAV is a portal for planning and tracking UAV-based research projects. It streamlines UAV projects, from mission planning, organization, and data acquisition, to data visualization, reporting, and collaborative sharing - all designed to comply with Canadian Aviation Regulations.
+CloudUAV is a Network Enablement Platform (NEP) for planning and tracking UAV-based research projects. It streamlines UAV projects, from mission planning, organization, and data acquisition, to data visualization, reporting, and collaborative sharing - all designed to comply with Canadian Aviation Regulations.
 
 ## UAV Project Management
 Users can create new Projects for each UAV research project they have. Within a Project, users can keep track of involved personnel, UAVs, and sensors; attach documents and certifications;  plan, log, and sync missions in the field; and share Project information.
@@ -33,7 +33,7 @@ Project administrators can view all data and get real-time notifications when up
 [Click here](http://clouduav.sensorup.com/components/faq/faq.html) to get started.
 
 ### Download
-Please [contact us](https://www.clouduav.ca) if you require any further information.
+Please [contact us](https://www.clouduav.ca) if you require the source code.
 
 ### Factsheet
 Please see the [CloudUAV website](https://www.clouduav.ca/)
@@ -56,3 +56,4 @@ Support is available from the SensorUp. Please leave an issue on the GitHub for 
 ### TryMe
 * [CloudUAV Login](https://clouduav.sensorup.com/)
 * [CloudUAV Mission App](https://www.clouduav.ca)
+* [CloudUAV Data Cloud based on SensorThings API[(https://developers.sensorup.com)
