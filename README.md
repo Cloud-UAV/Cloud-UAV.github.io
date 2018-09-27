@@ -57,3 +57,7 @@ Support is available from the SensorUp. Please leave an issue on the GitHub for 
 * [CloudUAV Login](https://clouduav.sensorup.com/)
 * [CloudUAV Mission App](https://www.clouduav.ca)
 * [CloudUAV Data Cloud based on SensorThings API](https://developers.sensorup.com)
+
+
+
+Supported by <img width="120px" src="https://www.canarie.ca/wp-content/uploads/CANARIE_h.png"/>
