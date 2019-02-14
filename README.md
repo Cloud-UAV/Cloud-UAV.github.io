@@ -33,7 +33,7 @@ Project administrators can view all data and get real-time notifications when up
 [Click here](http://clouduav.sensorup.com/components/faq/faq.html) to get started.
 
 ### Download
-Please [contact us](https://www.clouduav.ca) if you require the source code.
+Please see our [github repository](https://github.com/Cloud-UAV/) to download the source code.
 
 ### Factsheet
 Please see the [CloudUAV website](https://www.clouduav.ca/)
